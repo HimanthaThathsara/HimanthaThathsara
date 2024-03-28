@@ -3,8 +3,11 @@
 
 <p>
 I'm passionate about developing open-source technology and exploring new implementations for open-source projects. I welcome contributions from everyone to enhance the open-source community. While my technical expertise is currently limited, I am dedicated to improving my skills and expanding my knowledge in this field.
+
+I am excited about the opportunity to learn from others, share my ideas, and work together towards creating more accessible and efficient open-source solutions. I am committed to honing my skills through continuous learning and experimentation, with the ultimate goal of becoming a valuable contributor to the open-source community.
 </p>
 
+<h3 align="left">Current Goals And Objectives:</h3>
 - 👨‍💻 I’m currently working on **My Portfolio**
 
 - 👨‍🎓 I’m currently learning **Bsc (Honour) Computer Security And British Computer Society(BCS)**
