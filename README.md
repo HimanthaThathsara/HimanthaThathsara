@@ -8,11 +8,10 @@ I am excited about the opportunity to learn from others, share my ideas, and wor
 </p>
 
 <h3 align="left">Current Goals And Objectives:</h3>
+
 - 👨‍💻 I’m currently working on **My Portfolio**
 
 - 👨‍🎓 I’m currently learning **Bsc (Honour) Computer Security And British Computer Society(BCS)**
-
-- 📫 How to reach me **himanthathathsara2005@gmail.com**
   <br>
   <br>
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
