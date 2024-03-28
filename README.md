@@ -23,9 +23,11 @@ I am excited about the opportunity to learn from others, share my ideas, and wor
 <a href="https://instagram.com/himanthathathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanthathathsara" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/himantha2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="himantha2005" height="30" width="40" /></a>
 </p>
-  <br>
 
-<h3 align="left">Front-End :</h3>
+<br>
+<br>
+
+<h3 align="left">☢ Front-End :</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </a> 
@@ -46,8 +48,9 @@ I am excited about the opportunity to learn from others, share my ideas, and wor
 </a> 
 
 <br>
+<br>
 
-<h3 align="left">Back-End Framework :</h3>
+<h3 align="left">☣ Back-End Framework :</h3>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
@@ -64,8 +67,9 @@ I am excited about the opportunity to learn from others, share my ideas, and wor
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
 
 <br>
+<br>
 
-<h3 align="left">Progaraming Languages :</h3>
+<h3 align="left">👨‍💻 Progaraming Languages :</h3>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
@@ -77,8 +81,9 @@ I am excited about the opportunity to learn from others, share my ideas, and wor
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
 <br>
+<br>
 
-<h3 align="left">Data Bases :</h3>
+<h3 align="left">🖥 Data Bases :</h3>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
@@ -89,8 +94,9 @@ I am excited about the opportunity to learn from others, share my ideas, and wor
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 
 <br>
+<br>
 
-<h3 align="left">Development Tools :</h3>
+<h3 align="left">🛠 Development Tools :</h3>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
 </a> 
@@ -104,8 +110,9 @@ I am excited about the opportunity to learn from others, share my ideas, and wor
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 
 <br>
+<br>
 
-<h3 align="left">Others :</h3>
+<h3 align="left">⚠ Others :</h3>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
