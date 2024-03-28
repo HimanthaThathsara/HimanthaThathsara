@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Himantha Thathsara Amaranath</h1>
 <h3 align="center">I'm A Student Of NSBM GREEN UNIVERSITY Also A Junior Software Engineer.</h3>
 
+<p>
+I'm passionate about developing open-source technology and exploring new implementations for open-source projects. I welcome contributions from everyone to enhance the open-source community. While my technical expertise is currently limited, I am dedicated to improving my skills and expanding my knowledge in this field.
+</p>
+
 - 👨‍💻 I’m currently working on **My Portfolio**
 
 - 👨‍🎓 I’m currently learning **Bsc (Honour) Computer Security And British Computer Society(BCS)**
@@ -77,7 +81,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> 
+<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
