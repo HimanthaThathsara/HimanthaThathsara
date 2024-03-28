@@ -6,7 +6,9 @@
 - 👨‍🎓 I’m currently learning **Bsc (Honour) Computer Security And British Computer Society(BCS)**
 
 - 📫 How to reach me **himanthathathsara2005@gmail.com**
-
+  <br>
+  <br>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hiamthathaths4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hiamthathaths4" height="30" width="40" /></a>
