@@ -6,7 +6,7 @@ I'm passionate about developing open-source technology and exploring new impleme
 
 I am excited about the opportunity to learn from others, share my ideas, and work together towards creating more accessible and efficient open-source solutions. I am committed to honing my skills through continuous learning and experimentation, with the ultimate goal of becoming a valuable contributor to the open-source community.
 </p>
-
+  <br>
 <h3 align="left">Current Goals And Objectives:</h3>
 
 - 👨‍💻 I’m currently working on **My Portfolio**
@@ -14,7 +14,6 @@ I am excited about the opportunity to learn from others, share my ideas, and wor
 - 👨‍🎓 I’m currently learning **Bsc (Honour) Computer Security And British Computer Society(BCS)**
   <br>
   <br>
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hiamthathaths4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hiamthathaths4" height="30" width="40" /></a>
@@ -24,7 +23,7 @@ I am excited about the opportunity to learn from others, share my ideas, and wor
 <a href="https://instagram.com/himanthathathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanthathathsara" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/himantha2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="himantha2005" height="30" width="40" /></a>
 </p>
-
+  <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
