@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Himantha Thathsara Amaranath</h1>
+<hr size=10>
 <h3 align="center">I'm A Student Of NSBM GREEN UNIVERSITY Also A Junior Software Engineer.</h3>
 
 <p>
@@ -16,12 +17,11 @@ I am excited about the opportunity to learn from others, share my ideas, and wor
   <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-
+<a href="https://github.com/HimanthaThathsara" target="blank"><img align="center" src="icons8-github.svg" alt="himantha thathsara" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:himanthathsara2005@gamil.com" target="blank"><img align="center" src="icons8-google-plus.svg" alt="himantha thathsara" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/himantha-thathsara-2259432a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="icons8-linkedin.svg" alt="himantha thathsara" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;<a href="https://x.com/HimanthaThaths4?t=fuF5fiEUXvlW1kUAEM1T5A&s=09" target="blank"><img align="center" src="icons8-twitterx.svg" alt="hiamthathaths4" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/share/84xMruwRBqnqsNCh/?mibextid=qi2Omg" target="blank"><img align="center" src="icons8-facebook.svg" alt="himantha thathsara" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/himanthathathasara?igsh=MTl4MXl4ajIwdG9nOQ==" target="blank"><img align="center" src="icons8-instagram.svg" alt="himanthathathsara" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;<a href="https://discordapp.com/users/maxpaney_2005/" target="blank"><img align="center" src="icons8-discord.svg" alt="himantha thathsara" height="50" width="50" /></a>
 </p>
 
-
 <br>
+<hr size=10>
 <br>
 
 <h3 align="left">☢ Front-End :</h3>
