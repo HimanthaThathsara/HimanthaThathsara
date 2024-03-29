@@ -18,8 +18,11 @@ I am excited about the opportunity to learn from others, share my ideas, and wor
 <p align="left">
 <a href="https://twitter.com/hiamthathaths4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hiamthathaths4" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/himantha thathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himantha thathsara" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/himantha thathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="himantha thathsara" height="30" width="40" /></a>
-<a href="https://fb.com/himantha thathsara" target="blank"><img align="center" src="Facebook Gif.gif" alt="himantha thathsara" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/himantha thathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="himantha thathsara" height="40" width="40" /></a>
+  
+<a href="https://fb.com/himantha thathsara" target="blank">
+<img align="center" src="Facebook Gif.gif" alt="himantha thathsara" height="50" width="50" /></a>
+  
 <a href="https://instagram.com/himanthathathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanthathathsara" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/himantha2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="himantha2005" height="30" width="40" /></a>
 </p>
