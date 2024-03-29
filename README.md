@@ -16,16 +16,9 @@ I am excited about the opportunity to learn from others, share my ideas, and wor
   <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hiamthathaths4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hiamthathaths4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/himantha thathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himantha thathsara" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/himantha thathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="himantha thathsara" height="40" width="40" /></a>
-  
-<a href="https://fb.com/himantha thathsara" target="blank">
-<img align="center" src="Facebook Gif.gif" alt="himantha thathsara" height="50" width="50" /></a>
-  
-<a href="https://instagram.com/himanthathathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanthathathsara" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/himantha2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="himantha2005" height="30" width="40" /></a>
+<a href="https://x.com/HimanthaThaths4?t=fuF5fiEUXvlW1kUAEM1T5A&s=09" target="blank"><img align="center" src="X Gif.gif" alt="hiamthathaths4" height="50" width="50" /></a><a href="https://www.linkedin.com/in/himantha-thathsara-2259432a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="linkind Gif.gif" alt="himantha thathsara" height="50" width="50" /></a><a href="https://stackoverflow.com/users/22424085/himantha-amaranatha?tab=profile" target="blank"><img align="center" src="Stackoverflow Gif.gif" alt="himantha thathsara" height="50" width="50" /></a><a href="https://www.facebook.com/share/84xMruwRBqnqsNCh/?mibextid=qi2Omg" target="blank"><img align="center" src="Facebook Gif.gif" alt="himantha thathsara" height="50" width="50" /></a><a href="https://www.instagram.com/himanthathathasara?igsh=MTl4MXl4ajIwdG9nOQ==" target="blank"><img align="center" src="Instergram Gif.gif" alt="himanthathathsara" height="50" width="50" /></a><a href="https://www.hackerrank.com/himantha2005" target="blank"><img align="center" src="Hackrank.gif" alt="himantha2005" height="50" width="50" /></a><a href="mailto:himanthathsara2005@gamil.com" target="blank"><img align="center" src="Gmail gif.gif" alt="himantha thathsara" height="50" width="60" /></a><a href="https://github.com/HimanthaThathsara" target="blank"><img align="center" src="Github gif.gif" alt="himantha thathsara" height="50" width="50" /></a><a href="https://github.com/HimanthaThathsara" target="blank"><img align="center" src="Discode.gif" alt="himantha thathsara" height="50" width="50" /></a>
 </p>
+
 
 <br>
 <br>
