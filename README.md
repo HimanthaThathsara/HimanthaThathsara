@@ -20,21 +20,6 @@ I am excited about the opportunity to learn New Technology, share my ideas, and 
 <a href="https://github.com/HimanthaThathsara" target="blank"><img align="center" src="icons8-github.svg" alt="himantha thathsara" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:himanthathsara2005@gamil.com" target="blank"><img align="center" src="icons8-google-plus.svg" alt="himantha thathsara" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/himantha-thathsara-2259432a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="icons8-linkedin.svg" alt="himantha thathsara" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;<a href="https://x.com/HimanthaThaths4?t=fuF5fiEUXvlW1kUAEM1T5A&s=09" target="blank"><img align="center" src="icons8-twitterx.svg" alt="hiamthathaths4" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/share/84xMruwRBqnqsNCh/?mibextid=qi2Omg" target="blank"><img align="center" src="icons8-facebook.svg" alt="himantha thathsara" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/himanthathathasara?igsh=MTl4MXl4ajIwdG9nOQ==" target="blank"><img align="center" src="icons8-instagram.svg" alt="himanthathathsara" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;<a href="https://discordapp.com/users/maxpaney_2005/" target="blank"><img align="center" src="icons8-discord.svg" alt="himantha thathsara" height="50" width="50" /></a>
 </p>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
 <br>
 <hr size=10>
 <br>
